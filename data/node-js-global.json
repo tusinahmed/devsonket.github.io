@@ -10,6 +10,12 @@
                     "definition": "বর্তমান module এর ডিরেক্টরির নাম দেখা",
                     "code": "__dirname; অথবা path.dirname();"
                 },
+                      
+                     {
+                    "definition": "respons এ কুকিস ক্লিয়ার করা জন‍্য",
+                    "code": "res.clearCookie;"
+                },  
+                      
                 {
                     "definition": "বর্তমান module এর নাম দেখা",
                     "code": "__filename;"
